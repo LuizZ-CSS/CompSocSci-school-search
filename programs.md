@@ -15,3 +15,7 @@
 * Northwestern University: [Quantitative Methods in Sociology](https://sociology.northwestern.edu/people/faculty-specialty-areas.html). *GRE is not required*
 
 * EPFL: [social computing group](https://www.epfl.ch/schools/cdh/research-2/research-projects/social-computing-group/). Language & other requirements: [link](https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/)
+
+* Cornell: [Information school](https://infosci.cornell.edu/research/computational-social-science). [Sociology Department](https://sociology.cornell.edu/research/computational-social-science). GRE is requried for sociology department, but not for the information science department. [English requirements](https://gradschool.cornell.edu/admissions/prepare/english-language-proficiency-requirement/).
+
+* Princeton: [Data-Drive Social Science](https://ddss.princeton.edu/about). Their GRE information hasn't been updated: [English proficiency requirements](https://gradschool.princeton.edu/admission-onboarding/prepare/required-tests). The computational social science are listed under sociology department or public affair department.
