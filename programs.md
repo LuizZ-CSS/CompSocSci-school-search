@@ -19,3 +19,9 @@
 * Cornell: [Information school](https://infosci.cornell.edu/research/computational-social-science). [Sociology Department](https://sociology.cornell.edu/research/computational-social-science). GRE is requried for sociology department, but not for the information science department. [English requirements](https://gradschool.cornell.edu/admissions/prepare/english-language-proficiency-requirement/).
 
 * Princeton: [Data-Drive Social Science](https://ddss.princeton.edu/about). Their GRE information hasn't been updated: [English proficiency requirements](https://gradschool.princeton.edu/admission-onboarding/prepare/required-tests). The computational social science are listed under sociology department or public affair department.
+
+* Duke: [Sociology](https://sociology.duke.edu/research/social-networks-and-computational-social-science). No minimal requirement on GRE scores. Requirements on GRE will be updated in early August.
+  
+* Harvard: [Faculty list](https://www.iq.harvard.edu/our-people). This is an interdiscinplinary institute, and the requirements may differ with respect to different departments. Possible departments: HKS, School of Government, Stats, verious fields under SEAS.
+
+* MIT: [A single lab](https://jadbabaie.mit.edu/research/computational-social-science/). Other possible departments: Sloan school of management, IDSS, Media, even EECS.
