@@ -36,4 +36,8 @@
 * CMU: [Societal computing](https://sc.cs.cmu.edu/prospective-students/how-to-apply)
 * Dartmouth: [Quantitative Social Science](https://qss.dartmouth.edu/). For admitted as CS student [requirement page](https://web.cs.dartmouth.edu/graduate/applying/phd-computer-science) **GRE is required for FALL 24 CYCLE**.
 * University of Chicago: [they have a master that specialized in this field](https://macss.uchicago.edu/). This is also interdisciplinary, ranging from Econ to Polisci to Psychology.
-* UIUC: [CSS](https://ischool.illinois.edu/research/areas/computational-social-science)
+* UIUC: [CSS](https://ischool.illinois.edu/research/areas/computational-social-science) *GRE not required.*
+* Georgia Institute of Technology: [research area](https://www.ic.gatech.edu/content/social-computing-computational-journalism). They have multiple programs [graduate degrees](https://www.cc.gatech.edu/degree-programs).
+* ETH: [CSS](https://coss.ethz.ch/)
+* JHU: [Cassandra](https://cassandra.cs.jhu.edu/). Mainly CS, but also Econ & Humanities. *Does not require GRE*.
+* Virginia Institute of Technology: [SAIL lab](https://sail.cs.vt.edu/). Categorized under CS. *No GRE*.
