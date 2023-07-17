@@ -13,7 +13,6 @@ The following information only counts the fall 2024 admissions. For the informat
  * Info & CS: Dec 15 [page linke](https://www.cics.umass.edu/admissions/application-instructions)
 * USC:
  * CS: Dec 15 [page](https://www.cs.usc.edu/ph-d-application-information/)
-
 * Harvard:
  * SEAS: Dec 15 [page](https://seas.harvard.edu/prospective-students/prospective-graduate-students/frequently-asked-questions-faqs-graduate#:~:text=December%2015%2C%202023%20is%20the,Master%20in%20Design%20Engineering%20programs.)
  * HKS: Dec 1, at **5 PM** [a collaborated page that monitored various PHD programs at H](https://gsas.harvard.edu/programs).
