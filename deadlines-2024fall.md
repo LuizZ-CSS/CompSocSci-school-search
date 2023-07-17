@@ -20,3 +20,4 @@ The following information only counts the fall 2024 admissions. For the informat
 * Yale:
   * CS: Dec 15 [info](https://cpsc.yale.edu/academics/graduate-program/yale-computer-science-phd-program-admissions-faq)
   * Sociology: Dec 15 [combined page](https://gsas.yale.edu/admissions/phdmasters-application-process/dates-deadlines).
+* UIUC: information science Dec 15 [page](https://ischool.illinois.edu/degrees-programs/graduate/phd-information-sciences/apply#:~:text=December%201%2C%202023%2C%20is%20the,meet%20the%20November%201st%20deadline.) 
