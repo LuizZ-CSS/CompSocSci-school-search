@@ -26,8 +26,9 @@
 
 * MIT: [A single lab](https://jadbabaie.mit.edu/research/computational-social-science/). Other possible departments: Sloan school of management, IDSS, Media, even EECS.
 
-* University of Washington: [school of information](https://datalab.ischool.uw.edu/projects/computational-social-science);
+* University of Washington: [school of information](https://datalab.ischool.uw.edu/projects/computational-social-science); *GRE is not required*
 
-* University of Massachusetts: [specialized institute](https://www.cssi.umass.edu/index.php/projects).
+* University of Massachusetts: [specialized institute](https://www.cssi.umass.edu/index.php/projects). *GRE is not required*
 
-* 
+* Yale: [Human Nature Lab](https://humannaturelab.net/christakis). *GRE is optional*. [Language requirements](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements)
+* CMU: [Societal computing](https://sc.cs.cmu.edu/prospective-students/how-to-apply)
