@@ -32,3 +32,5 @@
 
 * Yale: [Human Nature Lab](https://humannaturelab.net/christakis). *GRE is optional*. [Language requirements](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements)
 * CMU: [Societal computing](https://sc.cs.cmu.edu/prospective-students/how-to-apply)
+* Dartmouth: [Quantitative Social Science](https://qss.dartmouth.edu/). For admitted as CS student [requirement page](https://web.cs.dartmouth.edu/graduate/applying/phd-computer-science) **GRE is required for FALL 24 CYCLE**.
+* University of Chicago: [they have a master that specialized in this field](https://macss.uchicago.edu/). This is also interdisciplinary, ranging from Econ to Polisci to Psychology.
