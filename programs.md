@@ -42,3 +42,4 @@
 * JHU: [Cassandra](https://cassandra.cs.jhu.edu/). Mainly CS, but also Econ & Humanities. *Does not require GRE*.
 * Virginia Institute of Technology: [SAIL lab](https://sail.cs.vt.edu/). Categorized under CS. *No GRE*.
 * ASU: [research areas](https://scai.engineering.asu.edu/research-labs/). 
+* Northeastern University: [center](https://catalog.northeastern.edu/graduate/social-sciences-humanities/sociology/).
