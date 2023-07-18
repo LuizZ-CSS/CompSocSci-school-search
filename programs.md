@@ -43,3 +43,4 @@
 * Virginia Institute of Technology: [SAIL lab](https://sail.cs.vt.edu/). Categorized under CS. *No GRE*.
 * ASU: [research areas](https://scai.engineering.asu.edu/research-labs/). 
 * Northeastern University: [center](https://catalog.northeastern.edu/graduate/social-sciences-humanities/sociology/).
+* Max-Plack Institute [demography research](https://www.demogr.mpg.de/en/research_6120/), [social, political, economic](https://imprs.mpifg.de/)
