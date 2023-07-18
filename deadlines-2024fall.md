@@ -25,3 +25,4 @@ The following information only counts the fall 2024 admissions. For the informat
 * Georgia Tech: Dec 15 [admission requirements](https://www.cc.gatech.edu/phd-cs-admissions-requirements#:~:text=The%20application%20deadline%20for%20the,Computer%20Science%20is%20December%2015th.)
 * CU Boulder: Dec 15 [info](https://www.colorado.edu/cs/admissions/graduate-admissions/how-apply)
 * NEU: Network Sci [Dec 15](https://www.networkscienceinstitute.org/phd)
+* Max Plank Institute: [Sep 8 for demographic research](https://www.demogr.mpg.de/en/career_6122/jobs_fellowships_1910/phd_student_position_12371), [mid Dec to Feb for the following year](https://imprs.mpifg.de/99889/calls-for-applications).
