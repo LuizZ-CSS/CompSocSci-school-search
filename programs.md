@@ -1,4 +1,4 @@
-* Berkeley D-Lab: [link](https://www.berkeley.edu/) *No GRE is not needed*
+* UC Berkeley: [D-lab](https://dlab.berkeley.edu/), which is a research group that can be joined by UCB's internal members ; [institute of DS](https://bids.berkeley.edu/research) *No GRE is not needed*
 
 * Stanford management science and engineering: [research centers](https://msande.stanford.edu/research-impact/research-centers-groups-and-labs) *GRE is not needed for 23 FALL*
 
