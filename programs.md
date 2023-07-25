@@ -24,7 +24,7 @@
   
 * Harvard: [Faculty list](https://www.iq.harvard.edu/our-people). This is an interdiscinplinary institute, and the requirements may differ with respect to different departments. Possible departments: HKS, School of Government, Stats, verious fields under SEAS.
 
-* MIT: [A single lab](https://jadbabaie.mit.edu/research/computational-social-science/). Other possible departments: Sloan school of management, IDSS, Media, even EECS.
+* MIT: [A single lab](https://jadbabaie.mit.edu/research/computational-social-science/). Other possible departments: Sloan school of management, IDSS, Media, even EECS. But the media PHD program is only open to current master student under the department, therefore you will need to apply for their master program first, then apply for the PHD.
 
 * University of Washington: [school of information](https://datalab.ischool.uw.edu/projects/computational-social-science); *GRE is not required*
 
