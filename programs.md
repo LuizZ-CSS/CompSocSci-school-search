@@ -42,6 +42,11 @@
 * JHU: [Cassandra](https://cassandra.cs.jhu.edu/). Mainly CS, but also Econ & Humanities. *Does not require GRE*.
 * Virginia Institute of Technology: [SAIL lab](https://sail.cs.vt.edu/). Categorized under CS. *No GRE*.
 * ASU: [research areas](https://scai.engineering.asu.edu/research-labs/). 
-* Northeastern University: [center](https://catalog.northeastern.edu/graduate/social-sciences-humanities/sociology/).
-* Max-Plack Institute [demography research](https://www.demogr.mpg.de/en/research_6120/), [social, political, economic](https://imprs.mpifg.de/)
+* Northeastern University:
+  * [sociology](https://catalog.northeastern.edu/graduate/social-sciences-humanities/sociology/);
+  * [digital humanities](https://northeasterncommons.org/blog/humanics/nulab-for-texts-maps-and-networks/);
+  * [network science homepage](https://www.networkscienceinstitute.org/)
+* Max-Plack Institute:
+  * [demography research](https://www.demogr.mpg.de/en/research_6120/),
+  * [social, political, economic](https://imprs.mpifg.de/)
 * UPenn: [CSS lab](https://css.seas.upenn.edu/) GRE is optinal. Multiple departments can apply to this lab.
