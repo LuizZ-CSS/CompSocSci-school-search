@@ -21,7 +21,8 @@
 * Princeton: [Data-Drive Social Science](https://ddss.princeton.edu/about). Their GRE information hasn't been updated: [English proficiency requirements](https://gradschool.princeton.edu/admission-onboarding/prepare/required-tests). The computational social science are listed under sociology department or public affair department.
 
 * Duke: [Sociology](https://sociology.duke.edu/research/social-networks-and-computational-social-science). No minimal requirement on GRE scores. Requirements on GRE will be updated in early August.
-  
+
+* Emory University: [research center](http://clir.emory.edu/)
 * Harvard: [Faculty list](https://www.iq.harvard.edu/our-people). This is an interdiscinplinary institute, and the requirements may differ with respect to different departments. Possible departments: HKS, School of Government, Stats, verious fields under SEAS.
 
 * MIT: [A single lab](https://jadbabaie.mit.edu/research/computational-social-science/). Other possible departments: Sloan school of management, IDSS, Media, even EECS. But the media PHD program is only open to current master student under the department, therefore you will need to apply for their master program first, then apply for the PHD.
@@ -50,3 +51,7 @@
   * [demography research](https://www.demogr.mpg.de/en/research_6120/),
   * [social, political, economic](https://imprs.mpifg.de/)
 * UPenn: [CSS lab](https://css.seas.upenn.edu/) GRE is optinal. Multiple departments can apply to this lab.
+* University of Toronto: [lab](http://csslab.cs.toronto.edu/)
+* Imperial College London: [lab](https://www.imperial.ac.uk/machine-learning/research/applications/computational-social-science/)
+* McGill: [specialized group](http://socialstudies.cs.mcgill.ca/index.html)
+* TUM: [research center](https://www.hfp.tum.de/css/startseite/).
