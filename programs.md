@@ -27,9 +27,9 @@
 
 * MIT: [A single lab](https://jadbabaie.mit.edu/research/computational-social-science/). Other possible departments: Sloan school of management, IDSS, Media, even EECS. But the media PHD program is only open to current master student under the department, therefore you will need to apply for their master program first, then apply for the PHD.
 
-* University of Washington: [school of information](https://datalab.ischool.uw.edu/projects/computational-social-science); *GRE is not required*
+* University of Washington (UW): [school of information](https://datalab.ischool.uw.edu/projects/computational-social-science); *GRE is not required*
 
-* University of Massachusetts: [specialized institute](https://www.cssi.umass.edu/index.php/projects). *GRE is not required*
+* University of Massachusetts (UMass): [specialized institute](https://www.cssi.umass.edu/index.php/projects). *GRE is not required*
 
 * Yale: The main group is [Human Nature Lab](https://humannaturelab.net/christakis). *GRE is optional* for sociology applicants.
   * [Language requirements](https://gsas.yale.edu/admissions/phdmasters-application-process/standardized-testing-requirements)
@@ -55,3 +55,7 @@
 * Imperial College London: [lab](https://www.imperial.ac.uk/machine-learning/research/applications/computational-social-science/)
 * McGill: [specialized group](http://socialstudies.cs.mcgill.ca/index.html)
 * TUM: [research center](https://www.hfp.tum.de/css/startseite/).
+* University of Virginia (UVA): [biocomplexity](https://biocomplexity.virginia.edu/institute)
+* University of Maryland (UMD): a lab seems to be more concerned about [government and politics](https://ilcss.umd.edu/faculty).
+* University of Pittsburgh: they build [a github page](https://pittcss.github.io/)
+* Stony Brook University: [the institute of advanced computational science](https://www.stonybrook.edu/commcms/iacs/research/index.php)
