@@ -59,3 +59,4 @@
 * University of Maryland (UMD): a lab seems to be more concerned about [government and politics](https://ilcss.umd.edu/faculty).
 * University of Pittsburgh: they build [a github page](https://pittcss.github.io/)
 * Stony Brook University: [the institute of advanced computational science](https://www.stonybrook.edu/commcms/iacs/research/index.php)
+* Rutgers: [communication](https://comminfo.rutgers.edu/research/keywords/computational-social-science), [library and info sci](https://comminfo.rutgers.edu/about/library-and-information-science-department).
