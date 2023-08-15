@@ -18,7 +18,7 @@
 
 * Cornell: [Information school](https://infosci.cornell.edu/research/computational-social-science). [Sociology Department](https://sociology.cornell.edu/research/computational-social-science). GRE is requried for sociology department, but not for the information science department. [English requirements](https://gradschool.cornell.edu/admissions/prepare/english-language-proficiency-requirement/).
 
-* Princeton: [Data-Drive Social Science](https://ddss.princeton.edu/about). Their GRE information hasn't been updated: [English proficiency requirements](https://gradschool.princeton.edu/admission-onboarding/prepare/required-tests). The computational social science are listed under sociology department or public affair department.
+* Princeton: [Data-Drive Social Science](https://ddss.princeton.edu/about). Their GRE information hasn't been updated: [English proficiency requirements](https://gradschool.princeton.edu/admission-onboarding/prepare/required-tests). The computational social science are listed under sociology department or public affair department. [Population research](https://pop.princeton.edu/graduate-program/prospective-students/phd-population-studies-and-social-policy-pipsjdp) also has similar programs.
 
 * Duke: [Sociology](https://sociology.duke.edu/research/social-networks-and-computational-social-science). No minimal requirement on GRE scores. Requirements on GRE will be updated in early August.
 
