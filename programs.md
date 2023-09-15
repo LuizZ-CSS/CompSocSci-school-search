@@ -65,3 +65,5 @@
 * RPI: [computer science](https://science.rpi.edu/computer-science), an interdisciplinary research co-conducted by [cognitive science and computer science](http://lacailab.cogsci.rpi.edu/index.php/projects/).
 * Univ. of Vermont (UVM): [a specialized certificate in copmlex-systems-related research](https://www.uvm.edu/cems/complex-systems-and-data-science-csds-phd), faculty list in computer science [by research area](https://www.uvm.edu/cems/cs/graduate_student_advisors).
 * Univ. of Georgia: [multiple work groups target on behavioral research](https://oibr.uga.edu/centersgroups/workgroups/)
+* Boston College: [listed under CS department](https://www.bc.edu/content/bc-web/schools/mcas/departments/computer-science/research.html).
+* Boston University: [they have a lab](https://www.bu.edu/ciss/), but *extremely* humanities-centered.
