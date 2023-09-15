@@ -61,3 +61,6 @@
 * Stony Brook University: [the institute of advanced computational science](https://www.stonybrook.edu/commcms/iacs/research/index.php)
 * Rutgers: [communication](https://comminfo.rutgers.edu/research/keywords/computational-social-science), [library and info sci](https://comminfo.rutgers.edu/about/library-and-information-science-department).
 * PSU: [research center](https://soda.la.psu.edu/). For the graduate students, only dual-titled PHD and PHD minor are provided.
+* William & Mary: [school of computer science](https://www.wm.edu/as/computerscience/graduate/)
+* RPI: [computer science](https://science.rpi.edu/computer-science), an interdisciplinary research co-conducted by [cognitive science and computer science](http://lacailab.cogsci.rpi.edu/index.php/projects/).
+* Univ. of Vermont (UVM): [a specialized certificate in copmlex-systems-related research](https://www.uvm.edu/cems/complex-systems-and-data-science-csds-phd), faculty list in computer science [by research area](https://www.uvm.edu/cems/cs/graduate_student_advisors).
