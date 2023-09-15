@@ -2,7 +2,7 @@
 
 * Stanford management science and engineering: [research centers](https://msande.stanford.edu/research-impact/research-centers-groups-and-labs) *GRE is not needed for 23 FALL*
 
-* University of South California: [Morality and Lngauage Lab](https://www.mola-lab.org/people) *GRE is required*
+* University of South California: [Morality and Language Lab](https://www.mola-lab.org/people) *GRE is required*
 
 * University of Michigan: [UMSI faculty list](https://www.si.umich.edu/research/research-areas/computational-social-science) *GRE is not required* 
 
@@ -38,7 +38,7 @@
 * Dartmouth: [Quantitative Social Science](https://qss.dartmouth.edu/). For admitted as CS student [requirement page](https://web.cs.dartmouth.edu/graduate/applying/phd-computer-science) **GRE is required for FALL 24 CYCLE**.
 * University of Chicago: [they have a master that specialized in this field](https://macss.uchicago.edu/). This is also interdisciplinary, ranging from Econ to Polisci to Psychology.
 * UIUC: [CSS](https://ischool.illinois.edu/research/areas/computational-social-science) *GRE not required.*
-* Georgia Institute of Technology: [research area](https://www.ic.gatech.edu/content/social-computing-computational-journalism). They have multiple programs [graduate degrees](https://www.cc.gatech.edu/degree-programs).
+* Georgia Institute of Technology: [research lab](https://socweb.cc.gatech.edu/). They have multiple programs [graduate degrees](https://www.cc.gatech.edu/degree-programs).
 * ETH: [CSS](https://coss.ethz.ch/)
 * JHU: [Cassandra](https://cassandra.cs.jhu.edu/). Mainly CS, but also Econ & Humanities. *Does not require GRE*.
 * Virginia Institute of Technology: [SAIL lab](https://sail.cs.vt.edu/). Categorized under CS. *No GRE*.
@@ -64,3 +64,4 @@
 * William & Mary: [school of computer science](https://www.wm.edu/as/computerscience/graduate/)
 * RPI: [computer science](https://science.rpi.edu/computer-science), an interdisciplinary research co-conducted by [cognitive science and computer science](http://lacailab.cogsci.rpi.edu/index.php/projects/).
 * Univ. of Vermont (UVM): [a specialized certificate in copmlex-systems-related research](https://www.uvm.edu/cems/complex-systems-and-data-science-csds-phd), faculty list in computer science [by research area](https://www.uvm.edu/cems/cs/graduate_student_advisors).
+* Univ. of Georgia: [multiple work groups target on behavioral research](https://oibr.uga.edu/centersgroups/workgroups/)
