@@ -67,3 +67,4 @@
 * Univ. of Georgia: [multiple work groups target on behavioral research](https://oibr.uga.edu/centersgroups/workgroups/)
 * Boston College: [listed under CS department](https://www.bc.edu/content/bc-web/schools/mcas/departments/computer-science/research.html).
 * Boston University: [they have a lab](https://www.bu.edu/ciss/), but *extremely* humanities-centered.
+* University of Oregon: [interdisciplinary CS programs](https://scds.uoregon.edu/cs/research/inter)
