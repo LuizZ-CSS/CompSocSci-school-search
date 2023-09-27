@@ -12,7 +12,7 @@
 
 * Oxford University: [Activities](https://www.cs.ox.ac.uk/activities/computational_social_choice/). The launguage requirements are different [Required English Proficiency](https://www.ox.ac.uk/admissions/graduate/courses/dphil-computer-science)
 
-* Northwestern University: [Quantitative Methods in Sociology](https://sociology.northwestern.edu/people/faculty-specialty-areas.html). *GRE is not required*
+* Northwestern University: [Quantitative Methods in Sociology](https://sociology.northwestern.edu/people/faculty-specialty-areas.html). They also have a [joint PHD](https://tsb.northwestern.edu/tsb-program/) intersecting computer science and communications. *GRE is not required*
 
 * EPFL: [social computing group](https://www.epfl.ch/schools/cdh/research-2/research-projects/social-computing-group/). Language & other requirements: [link](https://www.epfl.ch/education/admission/admission-2/phd-admission-criteria-and-application/)
 
