@@ -23,7 +23,7 @@
 * Duke: [Sociology](https://sociology.duke.edu/research/social-networks-and-computational-social-science). No minimal requirement on GRE scores. Requirements on GRE will be updated in early August.
 
 * Emory University: [research center](http://clir.emory.edu/)
-* Harvard: [Faculty list](https://www.iq.harvard.edu/our-people). This is an interdiscinplinary institute, and the requirements may differ with respect to different departments. Possible departments: HKS, School of Government, Stats, verious fields under SEAS.
+* Harvard: [Faculty list](https://www.iq.harvard.edu/our-people). This is an interdiscinplinary institute, and the requirements may differ with respect to different departments. Possible departments: HKS, School of Government, Stats, verious fields under SEAS. Another lab [CRCS](https://crcs.seas.harvard.edu/people/harvard-faculty).
 
 * MIT: [A single lab](https://jadbabaie.mit.edu/research/computational-social-science/). Other possible departments: Sloan school of management, IDSS, Media, even EECS. But the media PHD program is only open to current master student under the department, therefore you will need to apply for their master program first, then apply for the PHD.
 
