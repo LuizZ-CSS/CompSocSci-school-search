@@ -68,3 +68,6 @@
 * Boston College: [listed under CS department](https://www.bc.edu/content/bc-web/schools/mcas/departments/computer-science/research.html).
 * Boston University: [they have a lab](https://www.bu.edu/ciss/), but *extremely* humanities-centered.
 * University of Oregon: [interdisciplinary CS programs](https://scds.uoregon.edu/cs/research/inter)
+* Georgetown University: [data-centric computing](https://cs.georgetown.edu/research/data-centric-computing/). The [MDI](https://mccourt.georgetown.edu/massive-data-institute#_ga=2.128540687.2081025358.1699997376-1281627716.1699997376) initiates projects in CSS.
+* George Washington University: [institute for data, democracy, and politics](https://iddp.gwu.edu/).
+* 
