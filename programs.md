@@ -56,7 +56,7 @@
 * McGill: [specialized group](http://socialstudies.cs.mcgill.ca/index.html)
 * TUM: [research center](https://www.hfp.tum.de/css/startseite/).
 * University of Virginia (UVA): [biocomplexity](https://biocomplexity.virginia.edu/institute)
-* University of Maryland (UMD): a lab seems to be more concerned about [government and politics](https://ilcss.umd.edu/faculty).
+* University of Maryland (UMD): a lab seems to be more concerned about [government and politics](https://ilcss.umd.edu/faculty); some other labs associated with the school of information conduct research in this area as well, like [SODA](https://ischool.umd.edu/centers-and-labs/soda/).
 * University of Pittsburgh: they build [a github page](https://pittcss.github.io/)
 * Stony Brook University: [the institute of advanced computational science](https://www.stonybrook.edu/commcms/iacs/research/index.php)
 * Rutgers: [communication](https://comminfo.rutgers.edu/research/keywords/computational-social-science), [library and info sci](https://comminfo.rutgers.edu/about/library-and-information-science-department).
