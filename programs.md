@@ -73,3 +73,4 @@
 * Purdue University: [lab page](https://www.cla.purdue.edu/academic/polsci/research/labs/computational-social-science-lab/index.html).
 * Virginia Tech: [society AI lab](https://eugeniarho.com/sail/)
 * University of Georgia: [one of the CS resarch clusters](https://www.cs.uga.edu/research/content/simulation).
+* University of Texas Austin: One of their major research [fields](https://www.ischool.utexas.edu/research/research-areas).
